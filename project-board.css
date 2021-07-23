@@ -125,6 +125,12 @@ h1 {
     }
 }
 
+@media (max-width: 480px) {
+    .gallery__img {
+       pointer-events: none; 
+    }
+}  
+
 
 
    
