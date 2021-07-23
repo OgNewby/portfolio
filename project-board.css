@@ -77,6 +77,30 @@ h1 {
     padding: 8px;
 }
 
+@media (max-width: 780px) {
+    .row1 {
+        display: block;
+        justify-content: center;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 780px) {
+    .row3 {
+        display: block;
+        justify-content: center;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 780px) {
+    .row5 {
+        display: block;
+        justify-content: center;
+        object-fit: cover;
+    }
+}
+
 
 
 
