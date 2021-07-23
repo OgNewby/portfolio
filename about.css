@@ -92,5 +92,6 @@ letter-spacing: 1.5px;
 @media (max-width: 1200px) {
     .info {
         width: 90%;
+        background: 100%;
     }
 }
