@@ -89,8 +89,8 @@ letter-spacing: 1.5px;
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
     .info {
-        width: 80%;
+        width: 90%;
     }
 }
