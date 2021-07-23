@@ -117,13 +117,7 @@ h1 {
     }
 }
 
-@media (max-width: 680px) {
-    .row6 {
-        display: block;
-        justify-content: center;
-        object-fit: cover;
-    }
-}
+
 
 @media (max-width: 480px) {
     .gallery__img {
