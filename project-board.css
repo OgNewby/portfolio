@@ -54,10 +54,7 @@ h1 {
     box-shadow: 1px 2px 2px 1px #ade8f4;
     }
 
-.gallery__img:hover {
-    transform: scale(2.5);
-    transform: translateY(75px), scale(2.5);
-}   
+  
 
 .grid-item > figcaption {
     font-size: 22px;
