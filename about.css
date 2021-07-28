@@ -36,6 +36,10 @@
 
 
 .contact {
+    height: 35px;
+    width: 75px;
+    margin-left: 650px;
+    margin-top: 30px;
     text-decoration: none;
     display: flex;
     align-items: center;
